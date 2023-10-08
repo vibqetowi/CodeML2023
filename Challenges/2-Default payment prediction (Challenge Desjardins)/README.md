@@ -1,4 +1,4 @@
-Default payment prediction (Challenge Desjardins)
+# Default payment prediction (Challenge Desjardins)
 
 ### Description of the challenge
 

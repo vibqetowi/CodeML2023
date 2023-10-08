@@ -1,4 +1,4 @@
-Hail or not hail? (Challenge Environnement Canada)
+# Hail or not hail? (Challenge Environnement Canada)
 
 ### Description of the challenge
 

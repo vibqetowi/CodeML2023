@@ -1,4 +1,4 @@
-Predicting bus ridership (Challenge Exo)
+# Predicting bus ridership (Challenge Exo)
 
 ### Description of the challenge
 
